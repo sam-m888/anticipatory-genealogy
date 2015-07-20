@@ -20,7 +20,7 @@ Sally logs onto her computer and is presented with the list of projects she is w
 
 Bill sits down for a break between his classes and pulls out his phone. There is a notification reminding him about his daily goal to do genealogy, and he clicks it. Today's task is figuring out if two people on two different census's 10 years apart are one and the same. High, medium, and low probablity are the possible answers for this one. The names are the same, as are the birth countries, but the birth years are way off. As he learned to do yesterday, he pulls up the family comparison and sees that all but one family member matches. The oldest daughter is not on the latter census. He notices that she was 14 on the last census, and it would make sense that she would be gone 10 years latter. He selects "high probability", knowing that this will feed into the pool of available matches for others to verify and eventually use. Checking his watch to make sure he has time for another, he starts reading. The names are spelled different, but sound the same...
 
-Sue pulls out her tablet and opens up her current person-place puzzle. She has about 10 minutes before her youngest gets done with dance practice. "Good. 32/70 complete. Hmm. Anne born to John and Mary Smith. Elizabeth born to John and Mary Smith. Looks like just under 2 years apart, an easy one. Hyrum born to John and Anne Smith, but no other children for that couple. And a death of Anne Smith just after. And a Hyrum Smith. Oh, how sad. It's wondering if it's the same John Smith? Let me just check the timeline. Only those two, and there is a few years between John/Anne and John/Mary. Medium Probablity. And his new wife named the first daughter after his old wife. How touching..."
+Sue pulls out her tablet and opens up her current person-place puzzle. She has about 10 minutes before her youngest gets done with dance practice. "Good. 32/70 complete. Hmm. Anne born to John and Mary Smith. Elizabeth born to John and Mary Smith. Looks like just under 2 years apart, an easy one. Hyrum born to John and Anne Smith, but no other children for that couple. And a death of Anne Smith just after. And a Hyrum Smith. Oh, how sad. It's wondering if it's the same John Smith? Let me just check the timeline. Only two John Smith's in total, and there is a few years between John/Anne and John/Mary. High Probablity. And his new wife named the first daughter after his old wife. How touching..."
 
 Bob leans back from his computer and stretches. Lunch break. He pulls out a muffin and cracks open his salad. "Oh good, grilled chicken. And she added avacados. Mmmmm." He logs on and selects Continue Reading.
 > Your grandfather also fought in the Battle of Clervaux as a member of the American 110th Regiment on 16 December 1944 – 18 December 1944 in Clervaux, northern Luxembourg. From Wikipedia: German forces of the Fifth Panzer Army under Hasso von Manteuffel's command, primarily from the 2nd Panzer Division...
@@ -37,12 +37,15 @@ Anticipatory Genealogy is built on two things:
 
 ### Discrete Actionable Tasks
 
-Discrete: individually separate and distinct.
-Actionable: able to be done or acted on; having practical value.
-Task: a piece of work to be done or undertaken.
+Discrete: individually separate and distinct.  
+Actionable: able to be done or acted on; having practical value.  
+Task: a piece of work to be done or undertaken.  
 
-Bounded: form the boundary of; enclose. also: place within certain limits; restrict.
+### Results Integration
 
-### Integration of Results/Feedback
+Results: a consequence, effect, or outcome of something.  
+Integration: the action or process of combining (one thing) with another so that they become a whole.
 
-[Cycle Diagram]
+### Feedback Cycle
+
+![](img/cycle.png)
