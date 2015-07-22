@@ -6,7 +6,7 @@ Let's face it, doing family history sucks until you are an experienced genealogi
 
 And what about you? What if you have no desire to become an experienced genealogist? What if you just want to learn a little about your grandfather? What if you are a history buff that wants to learn about history in the context of your ancestors? What if you're just interested in exploring your past and helping out where you can? What then?
 
-Until now you have been forces to choose. To decide what you want up front. To seek out what you need. To adapt yourself to the software you chose. You had to reach out, learn, and explore all on your own.
+Until now you have been forced to choose. To decide what you want up front. To seek out what you need. To adapt yourself to the software you chose. You had to reach out, learn, and explore all on your own.
 
 It is time for something different. Something that learns what you want. Something that grows with you. Something that instructs, adapts, and changes based on what you do and say. Something that anticipates you.
 
