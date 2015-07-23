@@ -41,9 +41,39 @@ Each person is doing genealogy in a way completely unique to their goals and bac
 
 And each person is helping the others in some way. Bill's learning and Sue's puzzles feed Sally's research, which allows Bob to enjoy learning about his relatives in the context of history. Each Person, with their own unique want and desire, contributes to the whole, and all benefit. All because each person's experience was tailored to their wants and adapted to their needs. And the more it learned about them and their ancestors, the more it is able to provide. Each new piece of information builds on the one prior, and each person provides more detail and information to draw from.
 
-Know that we know a little about what Anticipatory Genealogy looks like, let's learn more about how it works...
+Now that we know a little about what Anticipatory Genealogy looks like, let's learn more about how it works...
 
 ## How it Works
+
+Anticipatory Genealogy is all about adapting genealogy to a person. The mechanism for doing this is a continuous cycle between Tasks and Results.
+
+![](img/simple-cycle.png)
+
+A Person is presented with a lists of Tasks. These might be things like "Search this record set for the birth information of Ancestor X", "Learn how to match people across multiple Census's.", "Match up all the families in Place Y", or "Read about your grandfather's role in World War 2". It may also be something like "How comfortable are you reading Ship Manifests?", "What area of your tree are you most interested in expanding?", or "How much time would you like to devote to genealogy every week?". And each time a Task is complete the Result of that Task is recorded by the system and used when presenting additional Tasks.
+
+As more and more tasks are completed, the system presents tasks more and more in-line with the Person wants, is good at, and actually does. The experience for the Person becomes very personal and unique to them. Remember, the overall purpose of Anticipatory Genealogy is to adapt to and anticipate the Person's goals, wants, and desires, presenting them with information and tasks that help them meed their goals/wants/desires.
+
+Let's look a little closer at how Anticipatory Genealogy works in different scenarios.
+
+### Anticipatory Genealogy in Practice
+
+#### Traditional Research
+
+#### Learning About Research
+
+#### Person-Place Puzzles
+
+#### Ancestors in History
+
+
+----
+
+If you don't want conceptual details and architectural mumbo-jumbo, stop reading here!
+
+----
+
+
+## How it Works - Getting into the details
 
 The core of Anticipatory Genealogy is built on the interplay between two major concepts: Discrete Actionable Tasks and Results Integration.
 
