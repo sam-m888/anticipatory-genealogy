@@ -161,7 +161,7 @@ Now that Sally has imported her tree, the system starts analyzing her data and a
 
 ![](img/sally-4.png)
 
-Now that Sally has picked an area of her tree to focus on (Around Ancestor X), it cross-references all of the available record sets and other data with the likelihood that they will be helpful by looking at what other people have found and done. This is then distilled into a set of Tasks that Sally can complete to help her expand her tree. This may be presented to her as a research log, allowing her to complete each search and record the results of that search in the Task.
+Now that Sally has picked an area of her tree to focus on (Ancestor X), it cross-references all of the available record sets and other data with the likelihood that they will be helpful by looking at what other people have found and done. This is then distilled into a set of Tasks that Sally can complete to help her expand her tree. This may be presented to her as a research log, allowing her to complete each search and record the results of that search in the Task.
 
 **5 - Sally starts researching**
 
