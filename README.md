@@ -133,14 +133,64 @@ Just knowing about people and data does us no good unless we analyze that knowle
 
 ### Anticipatory Genealogy
 
-Now that we know a bit more about the two main concepts of Anticipatory Genealogy, lets look at how they work together using some examples.
+Now that we know a bit more about the two main concepts of Anticipatory Genealogy, lets look at some examples of how Discrete Actionable Tasks and Results Integration work together to help people.
 
-**Primary Research**
+#### Primary Research
 
-**Collaboration??**
+Using Sally as an example, lets see how Anticipatory Genealogy applies to her situation.
 
-**Learning About Research**
+**1 - Initial State**
 
-**Person-Place Puzzles**
+![](img/sally-1.png)
 
-**Ancestors in History**
+The first thing Sally is presented with is two tasks. The first, Pick Goals, is intended to get an initial sense of what she would like to get out of her genealogy experience. It could ask questions like "How experienced of a researcher are you?", "Do you want help expanding your tree?", or "How much time would you like to spend working on your genealogy per week?". These questions are not limited to the first time she logs in either. When new features come online or the system becomes aware of activities or data that may interest Sue, it can always ask her. The second task, Import Tree, is just what it sounds like.
+
+**2 - Sally selects overall goals**
+
+![](img/sally-2.png)
+
+So after an initial round of questions, the system now knows that Sally is interested in doing primary research and is fairly experienced. It can't yet recommend or ask about research opportunities because it doesn't know about any of Sally's tree or research data.
+
+**3 - Sally imports her tree**
+
+![](img/sally-3.png)
+
+Now that Sally has imported her tree, the system starts analyzing her data and asks where she would like to focus her research. It uses what it knows about her tree and cross-matches what she is missing with resources that can help her find relevant information. The system informs Sally about the availability of records and learning/instructional information on the various areas it suggests working on. It suggests several ancestors to focus on, but also allows Sally to pick and area of her tree to focus on. After all, this is Sally's journey, and the system needs to adapt to her needs and wants.
+
+**4 - Sally picks an area to research**
+
+![](img/sally-4.png)
+
+Now that Sally has picked an area of her tree to focus on (Around Ancestor X), it cross-references all of the available record sets and other data with the likelihood that they will be helpful by looking at what other people have found and done. This is then distilled into a set of Tasks that Sally can complete to help her expand her tree. This may be presented to her as a research log, allowing her to complete each search and record the results of that search in the Task.
+
+**5 - Sally starts researching**
+
+![](img/sally-5.png)
+
+Sally is now researching, using the Tasks as a to-do list or research log. Each search is recorded (Record Set B), and the results of the search are integrated into the suggestions for Sally and for other researchers that may try and search that record set. Once Sally finds and enters the applicable information expanding her tree, the system may recommend that she continue searching for additional proof, or may recommend that she stop based on the types of records available. It is also important to note that Sally can add Tasks to remind her to search additional locations (Custom Search), which are treated the same way as system recommended searches.
+
+**In Summary**
+
+After informing the system that she wanted to do some primary research and importing her tree, Sally was guided through the research process. This guidance was based off of who Sally wanted to focus on, Sally's experience level, what information and records were available, and what records were most helpful to other researchers. The system adapted and tailored an experience for Sally as a person, and presented that experience as a set of personalized Tasks for her to complete. She determined what she wanted, and the system adapted itself to her wants.  
+
+#### Collaboration??
+
+#### Learning About Research
+
+#### Person-Place Puzzles
+
+#### Ancestors in History
+
+### Machine Learning, Rules, lists, etc
+
+Let's examine how a few common techniques can be applied to Anticipatory Genealogy
+
+**Machine Learning**
+
+Having software that learns from and takes into account prior decisions when suggesting Tasks to perform is extremely useful in Anticipatory Genealogy.
+
+Machine Learning is when software learns from and makes decisions based on data, and can be applied to several areas of Anticipatory Genealogy. The most obvious application is the prediction of areas of a Persons interest based on the prior behavior and preferences of other People. Each Task that is completed by a Person is taken into account by the machine learning model, which predicts which users will prefer which new tasks.
+
+An example: 
+
+**Rules Based Programming**
