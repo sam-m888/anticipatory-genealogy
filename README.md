@@ -135,9 +135,9 @@ Just knowing about people and data does us no good unless we analyze that knowle
 
 Now that we know a bit more about the two main concepts of Anticipatory Genealogy, lets look at some examples of how Discrete Actionable Tasks and Results Integration work together to help people.
 
-#### Primary Research
+#### Traditional Research
 
-Using Sally as an example, lets see how Anticipatory Genealogy applies to her situation.
+Lets see how Anticipatory Genealogy works for Sally, who wants to do research and expand her tree.
 
 **1 - Initial State**
 
@@ -149,7 +149,7 @@ The first thing Sally is presented with is two tasks. The first, Pick Goals, is 
 
 ![](img/sally-2.png)
 
-So after an initial round of questions, the system now knows that Sally is interested in doing primary research and is fairly experienced. It can't yet recommend or ask about research opportunities because it doesn't know about any of Sally's tree or research data.
+So after an initial round of questions, the system now knows that Sally is interested in doing traditional research and is fairly experienced. It can't yet recommend or ask about research opportunities because it doesn't know about any of Sally's tree or research data.
 
 **3 - Sally imports her tree**
 
@@ -171,7 +171,7 @@ Sally is now researching, using the Tasks as a to-do list or research log. Each 
 
 **In Summary**
 
-After informing the system that she wanted to do some primary research and importing her tree, Sally was guided through the research process. This guidance was based off of who Sally wanted to focus on, Sally's experience level, what information and records were available, and what records were most helpful to other researchers. The system adapted and tailored an experience for Sally as a person, and presented that experience as a set of personalized Tasks for her to complete. She determined what she wanted, and the system adapted itself to her wants.  
+After informing the system that she wanted to do some traditional research and importing her tree, Sally was guided through the research process. This guidance was based off of who Sally wanted to focus on, Sally's experience level, what information and records were available, and what records were most helpful to other researchers. The system adapted and tailored an experience for Sally as a person, and presented that experience as a set of personalized Tasks for her to complete. She determined what she wanted, and the system adapted itself to her wants.  
 
 #### Collaboration??
 
