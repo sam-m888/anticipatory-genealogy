@@ -109,14 +109,14 @@ Which brings us to the point of Anticipatory Genealogy. To provide a rich and fu
 
 ----
 
-If you don't want conceptual details and architectural mumbo-jumbo, stop reading here!
+<img src="img/stop-sign.png" style="height: 3em; vertical-align: middle;" /> If you don't want conceptual details and architectural mumbo-jumbo, stop reading here!
 
 ----
 
 
 ## Diving into Details
 
-Before we presented a simplified view of the continuous cycle that powers Anticipatory Genealogy. It is now time to take a closer look at how this works.
+Earlier we presented a simplified view of the continuous cycle that powers Anticipatory Genealogy. It is now time to take a closer look at how this works.
 
 The core of Anticipatory Genealogy is built on the interplay between two major concepts: Discrete Actionable Tasks and Results Integration.
 
