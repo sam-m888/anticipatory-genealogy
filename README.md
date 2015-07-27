@@ -97,7 +97,7 @@ The system is giving Bob as many avenues as possible to let him learn about his 
 
 ## So What?
 
-So what if we have this system that adapts to users. What's the big deal?
+So what if we have a system that adapts to users. What's the big deal?
 
 There are many advantages to a system that learns and adapts to the wants and needs of the people who use it. One of the major ones is that it is much more approachable for a larger range of people. Not everyone is, or wants to become, a traditional genealogist. Some just want to solve puzzles or learn about their ancestors in history. And for those who want to work on and expand their trees and personal genealogies, having a system that adapts to their level of skill is a big deal. It can keep people engaged and feeling productive from the beginning, and can help and assist them as they learn and grow. It can help them learn, and do so in the context of their own ancestors, personalizing any training to the.
 
@@ -109,7 +109,7 @@ Which brings us to the point of Anticipatory Genealogy. To provide a rich and fu
 
 ----
 
-<img src="img/stop-sign.png" style="height: 3em; vertical-align: middle;" /> If you don't want conceptual details and architectural mumbo-jumbo, stop reading here!
+<img src="img/stop-sign.png" width="32" style="vertical-align: middle;" /> If you don't want conceptual details and architectural mumbo-jumbo, stop reading here!
 
 ----
 
