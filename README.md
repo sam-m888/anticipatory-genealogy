@@ -43,7 +43,7 @@ And each person is helping the others in some way. Bill's learning and Sue's puz
 
 Now that we know a little about what Anticipatory Genealogy looks like, let's learn more about how it works...
 
-## How it Works
+## Underlying Concepts
 
 Anticipatory Genealogy is all about adapting genealogy to a person. The mechanism for doing this is a continuous cycle between Tasks and Results.
 
@@ -57,7 +57,19 @@ Let's look a little closer at how Anticipatory Genealogy works in different scen
 
 ### Anticipatory Genealogy in Practice
 
+In each scenario the system knows a great deal about what each person's overall goals are and what they want to/enjoy doing. It uses this information to tailor its interface to each person, and to present them with tasks that move them toward their goal. Lets examine each Person's unique situation and interaction with the system.
+
 #### Traditional Research
+
+The system knows that Sally is a more experienced genealogist and wants to do traditional research. It knows that she is fairly comfortable with technology, uses a Windows desktop most of the time, and an iPad on occasion. In examining her tree, the system has identified several locations where Sally could focus her research, but knows that she prefers focusing on her maternal grandmother's line. It knows that she is comfortable with reading English records, will actually dive in and search non-indexed records, and maintains accounts on several popular genealogy sites. She likes to bounce between a few projects at a time, prefers a traditional research-log approach, and always wants to be informed of any updates or information related to her mother's ancestry.
+
+When Sally logs into the system, she is presented with 2 main sections on her home screen. The first section contains updates, communications, and things that have happened since the last time she logged in. Any changes or updates to her mother's ancestry would appear here, and clicking on them would show Sally what she has and what the new information is. She would be able to discuss the change, ignore it, or pull it into her own tree right from that screen. Communications and messages would also appear here, like discussions Sally is participating in, messages directed at Sally, and questions from the system asking for preferences or clarifications.
+
+The second section contains a list of Sally's current projects. Since Sally is more of a traditional genealogist, her projects are organized in a more traditional research log format. Each project is focused on a specific ancestor or family, and contains a list of questions that need to be answered and a list of records/sources that need to be searched. Each record/source line contains both the information that describes it and where to search it, as well as the specific information that Sally is looking for. There is also a place for notes, and any information she enters is linked to her tree automatically. Sally can also add new sources or questions to answer at any time.
+
+When Sally opens up a project, it gives her a small summary of what she completed last time, and recommends the next task to complete or record to search. Since the entire project is linked into her tree, she can view her research in the context of her family, and can also collaborate on her research process with her friend Bess. Both her tree and her research can be shared with anyone, and discussions happen in the context of what they are referencing, with applicable information being pulled in or linked automatically.
+
+The system is always working behind the scenes on Sally's behalf. It keeps track of what Sally is working on, and focuses its efforts on finding information and sources that may be of use to her in those areas. It scans other linked trees and notifies her of any discussions that may be of value. It looks for new records that just became available that may contain more information about what she is researching, and automatically adds those to existing research logs for her to search. And the system always tailors it's communications to her knowing that she is a more experienced genealogist and is primarily focused on traditional research. The system adapts to and anticipates Sally, providing her with an experience that is unique to her, as any Anticipatory Genealogy system should.
 
 #### Learning About Research
 
