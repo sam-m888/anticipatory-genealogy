@@ -1,5 +1,7 @@
 # Anticipatory Genealogy
 
+Providing a rich and fulfilling genealogy experience to every person by giving them what they want, when they need it, presented in a way they understand, completely unique and personalized to them.
+
 ## Introduction
 
 Let's face it, doing family history sucks until you are an experienced genealogist. Newcomers are presented with a dizzying set of options, a wall of jargon, and a mountain of principles, resources, and methodologies to master before they can feel productive. And attaining that mastery takes time and persistence, mistakes and practice. This makes genealogy unforgiving and uninviting to all but the most dedicated of learners.
