@@ -105,7 +105,7 @@ Another advantage is the inherent connection and re-engagement with the system a
 
 And while there are many other obvious advantages that you can see, it is worth mentioning one more. A system that attracts a large range of people will become rich and [information packed], attracting even more people to it. It becomes a driver of continual engagement and growth, where the more people who use and participate, the more there is for people to do and participate in. Each person contributes their own knowledge and information to the whole, and the whole benefits from and can provide more knowledge and information to the Person as a result. And the system provides a deeper and more personalized experience over time, engaging so many more people that it otherwise could.
 
-Which brings us to the point of Anticipatory Genealogy. To provide a rich and fulfilling genealogy experience for every person by giving them what they want, when they need it, presented in a way they understand, completely unique and personalized to them. That is what is needed. That is what we must create. That is what we must give. That is Anticipatory Genealogy.
+Which brings us to the point of Anticipatory Genealogy. To provide a rich and fulfilling genealogy experience for every person by giving them what they want, when they need it, presented in a way they understand, completely unique and personalized to them. This is what is needed. This is what we must create. This is what we must give to every person. This is Anticipatory Genealogy.
 
 ----
 
