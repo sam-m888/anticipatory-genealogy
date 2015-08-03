@@ -1,28 +1,28 @@
 # Anticipatory Genealogy
 
-Providing a rich and fulfilling genealogy experience to every person by giving them what they want, when they need it, presented in a way they understand, completely unique and personalized to them.
+Giving each person a rich and fulfilling genealogy experience by offering them what they want, when they need it, presenting it in the way they understand, completely unique and personalized to them.
 
 ## Introduction
 
-Let's face it, doing family history sucks until you are an experienced genealogist. Newcomers are presented with a dizzying set of options, a wall of jargon, and a mountain of principles, resources, and methodologies to master before they can feel productive. And attaining that mastery takes time and persistence, mistakes and practice. This makes genealogy unforgiving and uninviting to all but the most dedicated of learners.
+Let's face it, traditional family history sucks until you are an experienced genealogist. Newcomers are presented with a dizzying array of choices, a wall of jargon, and a mountain of principles, resources, and methodologies to master before they can feel productive. This creates an unforgiving and uninviting genealogy experience to all but the most dedicated of learners.
 
-And what about you? What if you have no desire to become an experienced genealogist? What if you just want to learn a little about your grandfather? What if you are a history buff that wants to learn about history in the context of your ancestors? What if you're just interested in exploring your past and helping out where you can? What then?
+And what about you? What if you have no desire to become an experienced genealogist? What if you just want to explore your past and help out where you can? What if you just want to learn about history in the context of your ancestors? What if you just want to work on some of the challenging puzzles in family history. What then?
 
-Until now you have been forced to choose. To decide what you want up front. To seek out what you need. To adapt yourself to the software you chose. You had to reach out, learn, and explore all on your own.
+As of today you must choose, up front, the experience you believe you want. To seek out what you think you need. To adapt to the system you select, not fully understanding what you are being presented with. You are forced to reach out, explore, and learn what you truly want all by yourself.
 
-It is time for something different. Something that learns what you want. Something that grows with you. Something that instructs, adapts, and changes based on what you do and say. Something that anticipates you.
+You need something different. Something that learns what you want. Something that gives you what you need. Something that adapts itself to you, and presents itself in a way that you understand. Something that grows along with you. Something that changes based on what you do and say. Something that anticipates you.
 
-This is what anticipatory genealogy is all about. It asks what you want to do. It guides you while you do it. It learns from you as you do it. It knows what you want, goes out and gets it, and brings it to you. It presents genealogy to you in the way you understand, knowing the goals you have in mind.
+You need Anticipatory Genealogy. A system that asks you what you want to do. A system that brings you what you need. A system that presents its information in a way you understand. A system that learns what you want, goes out and gets it, and guides you while you do it. A system that delivers Anticipatory Genealogy.
 
-These goals vary from person to person. Let's meet a few of these people...
+But what would such a system look like? To answer that question let us start by looking at a few people...
 
-## Let's Meet Some People
+## It's all about the people
 
 First there is Bob. He is a 30 year old male that is comfortable with computers, is a bit of a history buff, and loves learning about his ancestors in the context of history. He doesn't much care for expanding his tree, but loves to get distracted reading about what his ancestors experienced.
 
 And then there is Sue. She is a puzzle master, and does the daily crossword. She is 38, is married with 2 children, and is hooked on matching families with records. Give her a daily feed of discrete, bite sized relationship puzzles and she's as happy as a clam. If they are about her own family that's a bonus, but it's more about the puzzle than the person.
 
-Now take Sally. She is the quintessential genealogist. Semi-retired at age 54, she is an experienced amateur contemplating certification. She has more notes that you can shake a stick at, and loves compiling formal genealogies about her own family. She attends every conference she can, and is learning to read Latin.
+Now take Sally. She is the quintessential genealogist. Semi-retired at age 54, she is an experienced amateur contemplating certification. She has more notes than you can shake a stick at, and loves compiling formal genealogies about her own family. She attends every conference she can, and is learning to read Latin.
 
 And finally Bill. He is 16 and owns a smart phone but not a computer. He is curious about his grandparents, and would like to find his great grandparents, but doesn't quite know where to start. He doesn't want to devote the hours-at-a-time it would take to dig in and learn, so he asks for guidance and help to both do and learn genealogy.
 
@@ -105,6 +105,8 @@ There are many advantages to a system that learns and adapts to the wants and ne
 
 Another advantage is the inherent connection and re-engagement with the system and overall experience. When a person invests in something and it becomes their own, they are much more likely to stay and continue to engage. They feel a sense of ownership, and combined with the fact that a person's ancestors belong to the person, makes for a very strong bond with the overall experience. A system that tailors and adapts itself to someone is much more enjoyable and enduring than a system that forces you to adapt to it.
 
-And while there are many other obvious advantages that you can see, it is worth mentioning one more. A system that attracts a large range of people will become rich and [information packed], attracting even more people to it. It becomes a driver of continual engagement and growth, where the more people who use and participate, the more there is for people to do and participate in. Each person contributes their own knowledge and information to the whole, and the whole benefits from and can provide more knowledge and information to the Person as a result. And the system provides a deeper and more personalized experience over time, engaging so many more people that it otherwise could.
+And while there are many other advantages that you can see, it is worth mentioning one more. A system that attracts a large range of people will become rich and [information packed], attracting even more people to it. It becomes a driver of continual engagement and growth, where the more people who use and participate, the more there is for people to do and participate in. Each person contributes their own knowledge and information to the whole, and the whole benefits from and can provide more knowledge and information to the Person as a result. And the system provides a deeper and more personalized experience over time, engaging so many more people that it otherwise could.
 
 Which brings us to the point of Anticipatory Genealogy. To provide a rich and fulfilling genealogy experience for every person by giving them what they want, when they need it, presented in a way they understand, completely unique and personalized to them. This is what is needed. This is what we must create. This is what we must give to every person. This is Anticipatory Genealogy.
+
+Only by offering a person what they want, when they need it, presenting it in a way they understand will each person receive a rich and fulfilling genealogy experience.
