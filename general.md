@@ -14,19 +14,23 @@ You need something different. Something that learns what you want. Something tha
 
 You need Anticipatory Genealogy. A system that asks you what you want to do. A system that brings you what you need. A system that presents its information in a way you understand. A system that learns what you want, goes out and gets it, and guides you while you do it. A system that delivers Anticipatory Genealogy.
 
-But what would such a system look like? To answer that question let us start by looking at a few people...
+But what would this system look like? Let's start by introducing a few people...
 
-## It's all about the people
+## Let's Meet Some People
 
-First there is Bob. He is a 30 year old male that is comfortable with computers, is a bit of a history buff, and loves learning about his ancestors in the context of history. He doesn't much care for expanding his tree, but loves to get distracted reading about what his ancestors experienced.
+First there's Bob. He's 30 years old, comfortable with computers, is a bit of a history buff, and loves learning about his ancestors in the context of history. He doesn't really care about expanding his tree, but will spend hours reading about the historical events that happened during his ancestors lives, especially the ones his ancestors experienced first hand.
 
-And then there is Sue. She is a puzzle master, and does the daily crossword. She is 38, is married with 2 children, and is hooked on matching families with records. Give her a daily feed of discrete, bite sized relationship puzzles and she's as happy as a clam. If they are about her own family that's a bonus, but it's more about the puzzle than the person.
+Then there's Sue. She loves the daily crossword, and all things puzzle related. At 38, she's married with 3 children, and is hooked on matching up families from place-specific records. She just wants her daily feed of relationship puzzles, and if they're about her own family that's a bonus, but it's more about the puzzle than the person.
 
-Now take Sally. She is the quintessential genealogist. Semi-retired at age 54, she is an experienced amateur contemplating certification. She has more notes than you can shake a stick at, and loves compiling formal genealogies about her own family. She attends every conference she can, and is learning to read Latin.
+Now take Sally. She's an experienced amateur genealogist. Semi-retired at age 54, she loves compiling formal genealogies about her own family, has more notes than you can shake a stick at, and is contemplating certification. She attends genealogy conferences, is learning to read Latin, and has worked on expanding her family tree for the last 20 years.
 
-And finally Bill. He is 16 and owns a smart phone but not a computer. He is curious about his grandparents, and would like to find his great grandparents, but doesn't quite know where to start. He doesn't want to devote the hours-at-a-time it would take to dig in and learn, so he asks for guidance and help to both do and learn genealogy.
+And finally Bill. He's 16, owns a smart phone (but not a computer), and is attending high school. He is curious about his grandparents, would love to find his great grandparents, and doesn't quite know where to start. Put off by the traditional hours-at-a-time genealogy experience, he has asked for help and guidance in both learning and doing genealogy.
 
-Sally, Bill, Sue, and Bob all have different backgrounds and want different things. They have varying levels of comfort with computers/technology, and their experience with genealogy and family history is all over the charts. Let's take a look at what anticipatory genealogy might look like for each of them...
+Sally, Bill, Sue, and Bob all have unique backgrounds and interests. They have varying levels of traditional genealogy experience, and some have no desire to become genealogists at all. Yet each have valid and admirable goals, and each has something special to contribute.
+
+Now let's see what happens as each of them interact with the same Anticipatory Genealogy System...
+
+## Using An Anticipatory Genealogy System
 
 Sally logs onto her computer and is presented with the list of projects she is working on, with a notification saying she has 2 messages. She opens the first, and reads that Tom, a researcher she was working with, has added some information to his tree supporting the death date and place of an ancestor that they have in common. She glances at the notes and citations, and pulls that information into her tree with a quick button click. The next message is a note from Bess. She found some information that seems to conflict with what Sally has in her tree, and wants to discuss possibilities. Sally pulls up her tree and looks at the conflict in context with both the new and old information, and notices an alert telling her that there is another discussion happening about the same piece of information. Someone must have found a high possibility conflict and brought it to the attention of those who shared the same ancestor. After adding her two-cents and "watching" the conversation, she returns to her home screen. There she sees that the system found another non-indexed record set that may shed some light on one of her projects. She pulls up that project and takes a look at her task list. 5 of 7 record sets searched. Yesterday there were only 6. Time to dive in and research, and she does...
 
