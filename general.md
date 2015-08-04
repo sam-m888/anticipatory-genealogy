@@ -1,6 +1,6 @@
 # Anticipatory Genealogy
 
-Giving each person a rich and fulfilling genealogy experience by offering them what they want, when they need it, presenting it in the way they understand, completely unique and personalized to them.
+Giving each person a rich and fulfilling genealogy experience by offering them what they want, when they need it, presented in the way they understand, completely unique and personalized to them.
 
 ## Introduction
 
@@ -116,10 +116,10 @@ The system is giving Bob as many ways as possible to help him learn about his an
 
 ## Why Anticipatory Genealogy?
 
-Why Anticipatory Genealogy? Because it is all about the person. About the individual. About their personal experience in connecting to the past and discovering their ancestors. It doesn't matter who puts the tree together. It doesn't matter who inputs the stories. It doesn't matter who []. It only matters that a person is empowered to experience their connection with their past. And who should be empowered? Everyone.
+Family history is about bringing people together. It's about an individual's journey to discover their past. It's about their intimate experience connecting with their ancestors. It doesn't matter who does the research. It doesn't matter who puts in the data. It doesn't matter who solves the puzzles. It only matters that you are empowered to build a personal connection with your family.
 
-That is why Anticipatory Genealogy is so important. Because everyone deserves the opportunity to discover and connect with their past in the way that they see fit. To be guided and shown that which they can, and want, to do. To have an experience that was created for them, and for no one else. To have an experience all their own, completely suited to their wants and needs. To have a system that learns, grows, and adapts to their wants, their needs, and their understanding.
+Everyone deserves this opportunity. The opportunity to connect with their past in the way they want. To have information and tools brought to them. To be guided and shown what they can do. To experience a system that learns, grows, and adapts to their wants, their needs, and their understanding.
 
-This is why it is so important. Because only when you offer a person what they want, when they need it, presenting it in a way they understand will each person receive a rich and fulfilling genealogy experience.
+Everyone needs Anticipatory Genealogy. Because only when you are offered what you want, when you need it, presented in the way you understand, will you have a rich and fulfilling genealogy experience.
 
 \- *John Clark, July 2015*
