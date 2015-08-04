@@ -34,7 +34,7 @@ Now let's see what happens as each of them interact with the same Anticipatory G
 
 Sally sits down at her computer and logs on. Sitting on top of her list of projects are two notifications. The first says that Tom, a researcher she has worked with in the past, has added some information to his tree supporting the death date and place of an ancestor they have in common. After a quick glance at the notes and citations, she nods and pulls the information into her tree. The second is a message from Bess pointing out a conflict between their trees. When Sally starts investigating she notices another discussion referencing the same piece of information. It looks like someone found a high probability match in another record and some of the information conflicts with what currently exists. She opens the record, adds a small comment, and watches the conversation. She isn't ready to make a decision just yet on whether to believe this newer source, so she returns to her home screen. Glancing down the list, she notices that the system found another record set that may shed some light on one of her projects. Opening up the task list for that project, she sees that there are 5 of 7 record sets searched. Yesterday it was 5 of 6. Time to dive in and start researching...
 
-Bill pulls out his phone between classes and unlocks it. A "thanks" from Bess, a new post, and a notification reminding him about his daily genealogy goal. When he opens the notification, he sees that today's practice is figuring out if two people on two different censuses 10 years apart are one and the same. Opening the first task, he sees that the names on both censuses are the same, as are the birth countries, but the birth years are way off. As he learned to do yesterday, he pulls up the family comparison and sees that all but one family member matches. The oldest daughter is not on the latter census. He notices that she was 14 on the last census, and it would make sense that she would be gone 10 years latter. He selects "High Probability Match", knowing that his work will feed into the pool of available matches for others to verify and eventually use. Checking to make sure he has time for another, he starts reading. The names are spelled different, but sound the same...
+Bill pulls out his phone between classes and unlocks it. A "thanks" from Bess, a new post, and a notification reminding him about his daily genealogy goal. When he opens the notification, he reads that today's practice is figuring out if two people on two different censuses 10 years apart are one and the same. Opening the first task, he sees that the names on both censuses are the same, as are the birth countries, but the birth years are way off. As he learned to do yesterday, he pulls up the family comparison and sees that all but one family member matches. The oldest daughter is not on the latter census. He notices that she was 14 on the last census, and it would make sense that she would be gone 10 years latter. He selects "High Probability Match", knowing that his work will feed into the pool of available matches for others to verify and eventually use. Checking to make sure he has time for another, he starts reading. The names are spelled different, but sound the same...
 
 Sue turns on her tablet and resumes her current person-place puzzle. Her youngest will be done with dance practice in about 10 minutes, just enough time to make some good progress. The goal is easy enough, just arrange all of the people into families for a given place. "Good. 32/70 complete. Hmm. Anne born to John and Mary Smith. Elizabeth born to John and Mary Smith. Looks like just under 2 years apart, an easy one. Hyrum born to John and Anne Smith, but no other children for that couple. And a death of Anne Smith just after. And a Hyrum Smith. Oh, how sad. It's wondering if it's the same John Smith? Let me just check the timeline. Only two John Smith's in total, and there is a few years between John/Anne and John/Mary. High Probability. And his new wife named the first daughter after his old wife. How touching..."
 
@@ -56,9 +56,34 @@ The point of Anticipatory Genealogy is to create a system that adapts itself to 
 
 ![](img/simple-cycle.png)
 
-Actionable Tasks are things that a person can do to further their genealogy goals, whatever they may be. In the beginning the tasks may be to answer questions like "Do you want to learn how to read a census record", "Do you want to upload your tree", or "How much time would you like to devote to genealogy every week?". Then, as the system knows more about the person, the tasks begin to change to things more like "Read about your grandfather's role in World War 2", "Search this record set for the birth information of Ancestor X", or "Match up all the families in Place Y". And, as each task is completed, the system tailors the available tasks to bring them in line with what the person wants and needs.
+**Actionable Tasks** are things that a person can do to further their genealogy goals, whatever they may be. In the beginning the tasks may be to answer questions like:
 
-Integrated Knowledge is the information the system uses to adapt itself to an individual and provide them with a personalized genealogy experience. There are several types of knowledge that the system uses. Knowledge of the person's goals, like "You want to learn how to read a census record". Knowledge of the person's data, like "You are missing your great grandfather in your tree". Knowledge of the actions and behaviors of other people, like "Other people who had a grandfather in World War Two, are male, and like history read about the battles their grandfathers fought in". Knowledge of information that exists that may help a person, like "The Parish of Knighton-on-Teme in Worcestershire England has registers containing baptisms, marriages, and burials for the years between 1559 and 1789". Then, as the system's overall knowledge increases, it generates more specific and more applicable tasks for the person to consider.
+* "Do you want to learn how to read a census record?"
+* "Do you want to upload your tree?"
+* "How much time would you like to devote to genealogy every week?"
+
+Then, as the system knows more about the person, the tasks begin to change to things more like:
+
+* "Read about your grandfather's role in World War 2"
+* "Search this record set for the birth information of Ancestor X"
+* "Match up all the families in Place Y"
+
+As each task is completed, the system tailors the available tasks to bring them in line with what the person wants and needs.
+
+**Integrated Knowledge** is the information the system uses to adapt itself to an individual and provide them with a personalized genealogy experience. Some knowledge comes directly from the person, like:
+
+* "You want to learn how to read a census record"
+* "You are missing your great grandfather in your tree"
+* "You cannot read Russian"
+
+Other knowledge is inferred, or comes from outside the system, like:
+
+* "You may like reading about the battles your ancestor fought in because other people who are male, like history, and have relatives who fought in wars also like that"
+* "You primarily focus on researching your mother's ancestors, so you would probably like to receive updates on new information available related to that area of your tree"
+* "The Parish of Knighton-on-Teme in Worcestershire England has registers containing baptisms, marriages, and burials for the years between 1559 and 1789"
+
+
+As the system's overall knowledge increases, it generates more and more specific tasks for the person to consider.
 
 The result of this cycle is a system that adapts to the person by building up a body of knowledge it knows about the person and using that to suggest and present a more personalized experience. It does not assume that a person wants something, it asks and observes. It brings information to the person and assists the person in discovering what they want, rather than forcing a particular experience upon them. It uses what it knows to present tasks in a way that the person understands, related to what they want, and giving them what they need. It learns about them, and eventually begins to anticipate them. This is how an Anticipatory Genealogy system works.
 
