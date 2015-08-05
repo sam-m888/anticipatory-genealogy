@@ -28,7 +28,7 @@ And finally Bob. He's 30 years old, comfortable with computers, is a bit of a hi
 
 Sally, Bill, Sue, and Bob all have unique backgrounds and interests. They have varying levels of traditional genealogy experience, and some have no desire to become genealogists at all. Yet each have valid and admirable goals, and each has something special to contribute.
 
-Now let's see what happens as each of them interact with the same Anticipatory Genealogy System...
+Now let's watch what happens as each of them interact with the same Anticipatory Genealogy System...
 
 ## Using An Anticipatory Genealogy System
 
@@ -82,16 +82,15 @@ Other knowledge is inferred, or comes from outside the system, like:
 * "You primarily focus on researching your mother's ancestors, so you would probably like to receive updates on new information available related to that area of your tree"
 * "The Parish of Knighton-on-Teme in Worcestershire England has registers containing baptisms, marriages, and burials for the years between 1559 and 1789"
 
-
 As the system's overall knowledge increases, it generates more and more specific tasks for the person to consider.
 
 The result of this cycle is a system that adapts to the person by building up a body of knowledge it knows about the person and using that to suggest and present a more personalized experience. It does not assume that a person wants something, it asks and observes. It brings information to the person and assists the person in discovering what they want, rather than forcing a particular experience upon them. It uses what it knows to present tasks in a way that the person understands, related to what they want, and giving them what they need. It learns about them, and eventually begins to anticipate them. This is how an Anticipatory Genealogy system works.
 
-And now that we know a little more about how an Anticipatory Genealogy System works, lets take a look at how the system interacts with people...
+And now that we know a little more about how an Anticipatory Genealogy System works, lets take a look at how that system interacts with people...
 
-### How An Anticipatory Genealogy System Adapts
+### When A Genealogy System Is Anticipatory
 
-The system gathers information about each person, and uses that information to customize that person's experience and provide them with personalized tasks to complete. In each experience below, we will look at what the system knows about a person, what that person's experience looks like, and how the system adapts to that person.
+The system gathers information about each person, and uses that information to customize that person's experience and provide them with personalized tasks to complete. In each experience below, we will look at what the system knows about a person, what that person's experience looks like, and how the system adapts to and anticipates that person.
 
 #### Traditional Research
 
